@@ -1,0 +1,13 @@
+@startuml
+
+left to right direction
+skinparam packageStyle rectangle
+actor User
+actor Server
+rectangle application {
+  User -- (Barring)
+  Server - (Barring)
+  (Adding to black list) -- User
+  (Adding to black list) - Server
+}
+@enduml

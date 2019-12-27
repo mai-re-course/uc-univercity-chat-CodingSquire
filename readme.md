@@ -16,4 +16,6 @@
 
 ![AddingToBlacklist.png](https://raw.githubusercontent.com/mai-re-course/uc-univercity-chat-CodingSquire/master/AddingToBlacklist.png)
 
+### Use case diagram
 
+![Usecase.png](https://raw.githubusercontent.com/mai-re-course/uc-univercity-chat-CodingSquire/master/Usecase.png)
